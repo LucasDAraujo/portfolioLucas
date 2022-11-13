@@ -41,7 +41,7 @@ const itens = [
         linkDescription: "Calcular IMC tanto masculino quanto feminino.",
     },
     {
-        linkHref: "calculadora-js-lucas.netlify.app",
+        linkHref: "https://calculadora-js-lucas.netlify.app",
         linkTitle: "Calculadora em Javascript",
         linkDescription: "Calculadora feita com HTML, CSS e Javascript.",
     },
